@@ -14,5 +14,21 @@ Dual licensed under the MIT and GPL licenses:
 http://www.opensource.org/licenses/mit-license.php
 http://www.gnu.org/licenses/gpl.html
 
+Usage
+-----
+This version of the Facebook SDK for PHP requires PHP 5.4 or greater.
+
+Minimal example:
+
+```js
+//Jquery progress indicator on page scroll default setting
+$("#progress-bar").onscroll();
+//Jquery progress indicator on page scroll addition setting
+//Progressbar color, Progressbar thickness, Progressbar postion
+//Progressbar position: fixed, absolute, relative
+$("#progress-bar").onscroll({backgroundColor: 'red', height: '5px', position: 'fixed'});
+                
+```
+
 Updates
 -------
