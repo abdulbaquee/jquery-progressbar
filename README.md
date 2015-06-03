@@ -1,4 +1,3 @@
-# jquery-progressbar
 Jquery progress indicator on page scroll
 ===============
 
