@@ -1,6 +1,5 @@
 # jquery-progressbar
 Jquery progress indicator on page scroll
-jQuery Parallax
 ===============
 
 Jquery progress indicator on page scroll is a script that simulates the indicator as seen on [socialscript.in](http://www.socialscript.in/).
