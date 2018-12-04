@@ -3,7 +3,7 @@
         // This is the easiest way to have default options.
         var settings = $.extend({
             backgroundColor: "#f00",
-            height: '10px',
+            height: '3px',
             position: 'fixed'
         }, options);
         var mySelector = this.selector;
